@@ -8,9 +8,9 @@
 </p>
 <p align="center">
     <a href="https://packagist.org/packages/serafim/placeholder"><img src="https://img.shields.io/badge/PHP-7.1+-6f4ca5.svg" alt="PHP 7.1+"></a>
-    <a href="https://packagist.org/packages/serafim/placeholder"><img src="https://poser.pugx.org/SerafimArts/Placeholder/version" alt="Latest Stable Version"></a>
-    <a href="https://packagist.org/packages/serafim/placeholder"><img src="https://poser.pugx.org/SerafimArts/Placeholder/downloads" alt="Total Downloads"></a>
-    <a href="https://raw.githubusercontent.com/SerafimArts/Placeholder/master/LICENSE.md"><img src="https://poser.pugx.org/SerafimArts/Placeholder/license" alt="License MIT"></a>
+    <a href="https://packagist.org/packages/serafim/placeholder"><img src="https://poser.pugx.org/serafim/placeholder/version" alt="Latest Stable Version"></a>
+    <a href="https://packagist.org/packages/serafim/placeholder"><img src="https://poser.pugx.org/serafim/placeholder/downloads" alt="Total Downloads"></a>
+    <a href="https://raw.githubusercontent.com/SerafimArts/Placeholder/master/LICENSE.md"><img src="https://poser.pugx.org/serafim/placeholder/license" alt="License MIT"></a>
 </p>
 
 Library provides a placeholder implementation for currying functions,
